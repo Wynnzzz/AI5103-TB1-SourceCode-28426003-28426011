@@ -123,4 +123,3 @@ Jalankan seluruh sel secara berurutan (*Run All*). Dataset sudah tertanam di dal
 - Penalti memakai bobot tetap dan tidak di-*tuning*.
 - Hiperparameter GA, PSO, dan HC tidak dioptimalkan lebih lanjut.
 - Acuan *gap* bersifat empiris dan berasal dari run pada eksperimen ini.
-- Tidak ada uji statistik untuk membandingkan metode.
